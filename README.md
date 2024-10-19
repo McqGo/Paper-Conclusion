@@ -1,10 +1,4 @@
-# Paper-Conclusion
-
-**这是关于AI编译器的论文阅读总结仓库**
-
-## 1 深度学习编译器
-
-### 1-1 周老师发给我的18篇论文（2024.10.20）：
+# 周老师发给我的18篇论文（2024.10.20）：
 
 1. 1篇综述性论文《The Deep Learning Compiler: A Comprehensive Survey》
 
